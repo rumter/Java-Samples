@@ -1,4 +1,7 @@
 JavaSamples-JavaRMI
 ===================
 
-Sample of JavaRMI
+Eclipse project.
+
+Sample of Java RMI.
+
