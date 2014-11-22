@@ -9,7 +9,7 @@ Eclipse-проект.
 JavaRMI.Hello
 -------------
 
-Пакет [ru.rumter.samples.javarmi.hello].
+Пакет `ru.rumter.samples.javarmi.hello`.
 
 Пример с созданием реестра из кода.
 Сервер создает экземпляр сервиса, реестр; регистрирует сервис в реестре.
@@ -27,7 +27,7 @@ JavaRMI.JNDI
 В api - общий код клиента и сервиса.
 
 Варианты запуска реестра: 
-1) rmiregistry (из корневого каталога class-файлов)
-2) rmiregistry -J-Djava.rmi.server.codebase="file:{path_to_project}/bin/" (из произвольного каталога)
+* `rmiregistry` (из корневого каталога class-файлов)
+* `rmiregistry -J-Djava.rmi.server.codebase="file:{path_to_project}/bin/"` (из произвольного каталога)
 
-Пакет [ru.rumter.samples.javarmi.jndi].
+Пакет `ru.rumter.samples.javarmi.jndi`.
