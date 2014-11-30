@@ -1,7 +1,7 @@
-JavaSamples-JavaRMI
+RMI
 ===================
 
-Примеры использования Java RMI.
+Примеры использования RMI.
 
 Eclipse-проект.
 
