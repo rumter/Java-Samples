@@ -1,6 +1,8 @@
 # Примеры обработки файла
 
-## Построчная обработка файла
+## [FileLineProcessor][FileLineProcessor]
+
+Построчная обработка файла.
 
 Пример чтения символьных данных из файла. Их обработка и запись в файл.
 
@@ -17,3 +19,6 @@
 ### Запуск
 
 Для запуска необходимо запустить скрипт `run FileLineProcessor`.
+
+
+[FileLineProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileLineProcessor.java
