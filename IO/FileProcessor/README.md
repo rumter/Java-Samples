@@ -18,7 +18,7 @@
 
 ### Запуск
 
-Для запуска необходимо запустить скрипт `run FileLineProcessor`.
+`run FileLineProcessor`
 
 ## [FileDataProcessor][FileDataProcessor]
 
@@ -36,7 +36,7 @@
 
 ### Запуск
 
-Для запуска необходимо запустить скрипт `run FileDataProcessor`.
+`run FileDataProcessor`
 
 [FileLineProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileLineProcessor.java
 
