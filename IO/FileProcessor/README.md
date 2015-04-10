@@ -20,5 +20,24 @@
 
 Для запуска необходимо запустить скрипт `run FileLineProcessor`.
 
+## [FileDataProcessor][FileDataProcessor]
+
+Пример чтания и записи примитивов в файл.
+
+### Особенности
+
+Ввод-вывод осуществляется с помощью `DataInput/DataOutputStream`.
+
+Для корректного освобождения ресурсов  используется конструкция try-with-resources.
+
+### Сборка
+
+Для компиляции необходимо запустить скрипт `build`.
+
+### Запуск
+
+Для запуска необходимо запустить скрипт `run FileDataProcessor`.
 
 [FileLineProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileLineProcessor.java
+
+[FileDataProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileDataProcessor.java
