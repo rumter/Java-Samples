@@ -1,4 +1,4 @@
-package ru.rumter.samples.io.filelineprocessor;
+package ru.rumter.samples.io.fileprocessor;
 
 import java.io.*;
 import java.util.*;
