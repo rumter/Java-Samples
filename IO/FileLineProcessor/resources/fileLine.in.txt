@@ -1,0 +1,3 @@
+Sample of
+file line processor
+Hello!
