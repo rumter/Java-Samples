@@ -50,6 +50,12 @@
 
 Ввод-вывод байтовый.
 
+## [FilePrependProcessor][FilePrependProcessor]
+
+Запись данных в начало файла.
+
+Используется RandomAccessFile.
+
 ## [FileAppendProcessor][FileAppendProcessor]
 
 Запись данных в конец файла.
@@ -65,5 +71,7 @@
 [FileObjectProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileObjectProcessor.java
 
 [FileRandomAccessProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileRandomAccessProcessor.java
+
+[FilePrependProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FilePrependProcessor.java
 
 [FileAppendProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileAppendProcessor.java
