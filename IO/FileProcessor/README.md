@@ -50,6 +50,12 @@
 
 Ввод-вывод байтовый.
 
+## [FileAppendProcessor][FileAppendProcessor]
+
+Запись данных в конец файла.
+
+Ввод-вывод символьный.
+
 [FileLineProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileLineProcessor.java
 
 [FileDataProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileDataProcessor.java
@@ -59,3 +65,5 @@
 [FileObjectProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileObjectProcessor.java
 
 [FileRandomAccessProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileRandomAccessProcessor.java
+
+[FileAppendProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileAppendProcessor.java
