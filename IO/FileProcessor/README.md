@@ -42,6 +42,14 @@
 
 Для корректного освобождения ресурсов используется конструкция try-with-resources.
 
+## [FileRandomAccessProcessor][FileRandomAccessProcessor]
+
+Запись в файл, начиная сопределенного места.
+
+Чтение записанных данных.
+
+Ввод-вывод байтовый.
+
 [FileLineProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileLineProcessor.java
 
 [FileDataProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileDataProcessor.java
@@ -49,3 +57,5 @@
 [FileWholeProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileWholeProcessor.java
 
 [FileObjectProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileObjectProcessor.java
+
+[FileRandomAccessProcessor]: https://github.com/rumter/Java-Samples/blob/master/IO/FileProcessor/src/ru/rumter/samples/io/fileprocessor/FileRandomAccessProcessor.java
