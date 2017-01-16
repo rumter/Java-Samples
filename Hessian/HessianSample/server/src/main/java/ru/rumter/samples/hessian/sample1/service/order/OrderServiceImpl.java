@@ -9,7 +9,14 @@ public class OrderServiceImpl extends HessianServlet implements OrderService {
 
     @Override
     public Status processOrder(Order order) {
-        return new Status(String.format("total: %.2f, items.size: %d, comment: %s", order.getTotal(), order.getItems().size(), order.getComment()));
+        String statusMessage = String.format("total: %.2f, items.size: %d, comment: %s", order.getTotal(), order.getItems().size(), order.getComment());
+
+        //Status status = new Status(statusMessage);
+
+        ExtStatus status = new ExtStatus(statusMessage);
+        status.setExtField("12345");
+
+        return status;
     }
 
 }
